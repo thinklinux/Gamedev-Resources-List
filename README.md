@@ -2,7 +2,7 @@
 
 A list with articles and videos about game/level design, which have been gathered from gamasutra, tigsource, youtube, etc.
 
-Credits to Carlos Zaracho who made the list at the first place. He posted it in Indie Game Developers group at Facebook so I decided to make it a git repo.
+Credits to [Carlos Zaracho](https://github.com/dfang89) who made the list at the first place. He posted it in Indie Game Developers group at Facebook so I decided to make it a git repo.
 
 Any contributions are welcome.
 
